@@ -1,4 +1,5 @@
 import React, { useState } from 'react' // import useState Hook
+import './App.css'
 
 // create component
 function Todo({ todo, index }) {
